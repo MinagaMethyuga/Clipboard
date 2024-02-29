@@ -1,8 +1,10 @@
 
+import React from 'react';
+
 function App() {
   return (
     <div className="App">
-      <div className="w-screen h-screenoverflow-hidden">
+      <div className="w-screen h-screen overflow-hidden">
         <div className="backgroundimages">
           <img src="../images/bg-header-mobile.png" alt="background" className="w-full md:hidden lg:hidden"/>
           <img src="../images/bg-header-desktop.png" alt="background" className=" hidden w-full md:block lg:block"/>
@@ -10,7 +12,7 @@ function App() {
         </div>
         <div className=" w-[90%]  absolute top-[15%] left-[5%] lg:absolute lg:top-[20%]">
           <div className=" flex justify-center">
-            <svg width="125" height="125" xmlns="http://www.w3.org/2000/svg"><g stroke="#26BBA4" stroke-width="10" fill="none" fill-rule="evenodd"><circle cx="62.5" cy="62.5" r="57.5"/><path d="M85.481 85.481c-12.692 12.692-33.27 12.692-45.962 0s-12.692-33.27 0-45.962 33.27-12.692 45.962 0" stroke-linecap="round"/></g></svg>
+            <svg width="125" height="125" xmlns="http://www.w3.org/2000/svg"><g stroke="#26BBA4" strokeWidth="10" fill="none" fillRule="evenodd"><circle cx="62.5" cy="62.5" r="57.5"/><path d="M85.481 85.481c-12.692 12.692-33.27 12.692-45.962 0s-12.692-33.27 0-45.962 33.27-12.692 45.962 0" strokeLinecap="round"/></g></svg>
           </div>
           <div className=" text-center mt-[10%]">
             <h1 className=" text-3xl font-semibold md:absolute top-[60%] w-full md:text-3xl lg:text-5xl">A history of everything you copy</h1>
