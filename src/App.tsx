@@ -12,9 +12,9 @@ function App() {
           </div>
           <div className=" text-center mt-[10%]">
             <h1 className=" text-3xl font-semibold md:absolute top-[60%] w-full md:text-3xl lg:text-5xl">A history of everything you copy</h1>
-            <p className=" text-md mt-3 md:w-[80%] md:relative left-[10%] md:text-md lg:text-xl lg:mt-13">Clipboard allows you to track and organize everything you copy. Instantly access your clipboard on all your devices.</p>
+            <p className=" text-md mt-6 md:w-[80%] md:relative left-[10%] md:text-md lg:text-xl lg:mt-13">Clipboard allows you to track and organize everything you copy. Instantly access your clipboard on all your devices.</p>
           </div>
-          <div className=" absolute top-[115%] w-full overflow-hidden md:absolute md:top-[125%] md:h-[25%] lg:h-[20%] lg:w-[60%] lg:left-[20%]">
+          <div className=" absolute top-[125%] w-full overflow-hidden md:absolute md:top-[125%] md:h-[25%] lg:h-[20%] lg:w-[60%] lg:left-[20%]">
             <div className=" bg-cyan-600 p-2.5 rounded-full text-center cursor-pointer text-[#ffff] font-semibold w-full h-[%5] md:w-[40%] md:h-[80%] md:absolute top-[10%] left-[8%]">Download for IOS</div>
             <div className=" bg-blue-900 p-2.5 rounded-full mt-3 text-center cursor-pointer text-[#ffff] w-full h-[%5] md:w-[40%] md:h-[80%] md:absolute md:top-[-10%] md:right-[8%]">Download for Mac</div>
           </div>
