@@ -5,7 +5,7 @@ function App() {
       <div className="w-screen h-screenoverflow-hidden">
         <div className="backgroundimages">
           <img src="../images/bg-header-mobile.png" alt="background" className="w-full md:hidden lg:hidden"/>
-          <img src="../images/bg-header-desktop.png" alt="background" className="w-full hidden md:block lg:block"/>
+          <img src="../images/bg-header-desktop.png" alt="background" className=" hidden w-full md:block lg:block"/>
           
         </div>
         <div className=" w-[90%]  absolute top-[15%] left-[5%] lg:absolute lg:top-[20%]">
