@@ -3,8 +3,8 @@ function App() {
     <div className="App">
       <div className="w-screen h-screen overflow-hidden">
         <div className="backgroundimages">
-          <img src="assets/bg-header-mobile.png" alt="background" className="w-full md:hidden lg:hidden"/>
-          <img src="assets/bg-header-desktop.png" alt="background" className=" hidden w-full md:block lg:block"/>
+          <img src="https://ui2nsvmsttnxr3j5.public.blob.vercel-storage.com/images/bg-header-mobile-WvTahZLxf64kePSl0L4UVMi4OvDhEH.png" alt="background" className="w-full md:hidden lg:hidden"/>
+          <img src="https://ui2nsvmsttnxr3j5.public.blob.vercel-storage.com/images/bg-header-desktop-be58Q4feBKBnziuopFY3nbwtP2QjuD.png" alt="background" className=" hidden w-full md:block lg:block"/>
         </div>
         <div className=" w-[90%]  absolute top-[15%] left-[5%] lg:absolute lg:top-[20%]">
           <div className=" flex justify-center">
